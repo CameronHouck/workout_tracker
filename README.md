@@ -24,6 +24,8 @@ this app allows you to add your work outs and monitor wether your workouts are i
 
 ## Demo
 
+https://still-dawn-26005.herokuapp.com/
+
 ![alt text](https://media.discordapp.net/attachments/859056070696501249/861168349618503690/unknown.png?width=1097&height=384)
 ![alt text](https://cdn.discordapp.com/attachments/859056070696501249/861168505826836520/unknown.png)
 ![alt text](https://cdn.discordapp.com/attachments/859056070696501249/861168590638809088/unknown.png)
